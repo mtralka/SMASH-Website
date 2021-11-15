@@ -10,5 +10,5 @@ This repo holds the code for the website I designed, implemented, and currently 
   - Options API
   - SSG --> static target
 - Nuxt Content + Netlify CMS
-  - Every element (text, photo, icon, etc) is editable through the CMS
+  - Every element (text, photo, icon, header, etc) is editable through the CMS
 - TailwindCSS (JIT)
